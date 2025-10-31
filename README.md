@@ -11,7 +11,7 @@ I'm a seasoned full-stack engineer with 9+ years of experience building, moderni
 - 🤝 Open to collaborations involving **Angular upgrades**, **legacy rewrites**, or **API-driven web apps**
 - 🧰 Favorite tools: Angular, React, .NETNode, Express, PostgreSQL,Azure, .NET
 - 🚀 Currently learning: **Anything and Everything**
-
+- https://www.brendanbknight.com/
 ---
 
 > 🧠 I'm passionate about modernizing legacy apps, consulting on complex software systems, and helping businesses build performant, scalable solutions.
