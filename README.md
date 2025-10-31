@@ -1,13 +1,22 @@
-Hi 👋 My name is Brendan Burger
-===============================
+# 👋 Hi, I'm Brendan Burger
 
-Senior Full Stack Software Engineer
------------------------------------
+### 💻 Senior Full Stack Software Engineer | Angular Upgrade Specialist | Software Consultant
 
-* 🌍  I'm based in East Coast U.S.
-* ✉️  You can contact me at [Brendanburger87@gmail.com](mailto:Brendanburger87@gmail.com)
-* 🧠  I'm learning Python related frameworks
-* 🤝  I'm open to collaborating on any JS/TS based apps
+I'm a seasoned full-stack engineer with 9+ years of experience building, modernizing, and scaling web applications. I specialize in **JavaScript/TypeScript**, **Angular (all versions)**, **Node.js**, and **API development** — with additional experience in .NET, Java, C#, SQL databases, and DevOps tooling.
+
+---
+
+- 🌍 Based on the East Coast, U.S.
+- 📬 Reach me at [Brendanburger87@gmail.com](mailto:Brendanburger87@gmail.com)
+- 🤝 Open to collaborations involving **Angular upgrades**, **legacy rewrites**, or **API-driven web apps**
+- 🧰 Favorite tools: Angular, React, .NETNode, Express, PostgreSQL,Azure, .NET
+- 🚀 Currently learning: **Anything and Everything**
+
+---
+
+> 🧠 I'm passionate about modernizing legacy apps, consulting on complex software systems, and helping businesses build performant, scalable solutions.
+
+---
 
 ### Skills
 
